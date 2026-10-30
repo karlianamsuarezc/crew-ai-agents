@@ -1,13 +1,18 @@
 # Python 3.10.12 (o superior recomendada para CrewAI)
 
-# CrewAI Framework
-crewai==0.75.0
-crewai-tools==0.12.1
+# # CrewAI Framework
+# crewai==0.75.0
+# crewai-tools==0.13.2
 
-# Integración con Google Gemini / LangChain
-langchain-google-genai==1.0.10
-google-generativeai==0.8.3
+# # Integración con Google Gemini / LangChain
+# langchain-google-genai==1.0.10
+# google-generativeai>=0.7.0,<0.8.0
 
-# Variables de entorno y utilidades
-python-dotenv==1.0.1
-pydantic==2.9.2
+# # Variables de entorno y utilidades
+# python-dotenv==1.0.1
+# pydantic==2.9.2
+crewai
+crewai-tools
+langchain-google-genai
+python-dotenv
+pydantic
